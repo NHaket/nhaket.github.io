@@ -8,7 +8,7 @@ profile:
   align: right
   image: new_pic.jpg
 
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>PhD Candidate</p>
     <p>Trinity Hall, Cambridge</p>
