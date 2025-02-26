@@ -9,6 +9,7 @@ nav_order: 6
 
 ### Thesis/Dissertation Supervisor
 - Dissertation Supervisor (2024): Guided undergraduate research in semantics and pragmatics.
+  - "The Flirting Game: A pragmatic analysis of collaborative meaning negotiation in flirting interactions."
 
 ### Small Group Teaching
 - Undergraduate Supervisor, University of Cambridge (2022 – Present):
