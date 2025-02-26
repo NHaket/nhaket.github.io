@@ -37,10 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-won-a-student-bursary-to-attend-the-19th-international-pragmatics-conference-to-be-held-in-brisbane-australia-from-22-to-27-june-2025",
-          title: 'Won a student bursary to attend the 19th International Pragmatics Conference to be...',
-          description: "",
-          section: "News",},{id: "news-collaborative-conceptual-engineering-linguistics-and-philosophy-published-as-a-chapter-in-conceptual-engineering-methodological-and-metaphilosophical-issues-edited-by-piotr-stalmaszczyk",
+        },{id: "news-collaborative-conceptual-engineering-linguistics-and-philosophy-published-as-a-chapter-in-conceptual-engineering-methodological-and-metaphilosophical-issues-edited-by-piotr-stalmaszczyk",
           title: '“Collaborative Conceptual Engineering: Linguistics and Philosophy” published as a chapter in “Conceptual Engineering...',
           description: "",
           section: "News",},{id: "news-presentation-at-the-6th-international-conference-of-the-american-pragmatics-association-ampra-in-florida-titled-the-forgotten-pragmatic-aspect-of-conceptual-engineering",
@@ -51,6 +48,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-joined-the-organising-committee-for-the-11th-biennial-experimental-pragmatics-conference-xprag-2025",
           title: 'Joined the organising committee for the 11th Biennial Experimental Pragmatics Conference (XPRAG 2025)...',
+          description: "",
+          section: "News",},{id: "news-won-a-student-bursary-to-attend-the-19th-international-pragmatics-conference-to-be-held-in-brisbane-australia-from-22-to-27-june-2025",
+          title: 'Won a student bursary to attend the 19th International Pragmatics Conference to be...',
           description: "",
           section: "News",},{id: "projects-navigating-meaning-spaces-a-contextualist-approach-to-conceptual-engineering",
           title: 'Navigating Meaning Spaces; A Contextualist Approach to Conceptual Engineering',
