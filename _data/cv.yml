@@ -185,6 +185,10 @@
       description: >
         Pioneer project member in the Dawn Supercomputer Initiative at the
         University of Cambridge’s Research Computing Service.
+    - title: University of East Anglia annotation project
+      description: >
+        Working with ​Dr Dimitra Lazaridou-Chatzigoga and Prof Eugen Fischer on an experimental philosophy project.
+
 
 - title: 'Teaching, Mentoring, and Pedagogy'
   type: time_table
@@ -229,7 +233,7 @@
           communicating with the authors and using Latex to format and
           publish the papers.
 
-- title: Public Communications
+- title: Public Communications and Outreach
   type: time_table
   contents:
     - title: Presentation at the AI Café
@@ -245,6 +249,10 @@
         Magazine article written in *The Low Countries*, an academic magazine aiming 
         to target all aspects of language and culture. Lichtsteiner, L., & Haket, N. (2021b). 
         In Search of a Language Utopia. The Low Countries, 4(4).
+    - title: Student Ambassador for the Trinity Hall 'You'll fit in' residential programme.
+      description: >
+        This free programme to students in Year 12 who are considering applying to Cambridge University and who belong to underrepresented ethnic backgrounds.
+
 
 - title: Conference and Workshop Organisation
   type: time_table
