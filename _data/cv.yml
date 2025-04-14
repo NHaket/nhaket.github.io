@@ -47,6 +47,13 @@
 - title: Publications
   type: time_table
   contents:
+    - title: Paper for publication in the Journal of Pragmatics
+      year: Under review
+      description: >
+    - title: BERT's Conceptual Cartography; Mapping the Landscapes of Meaning
+      year: Forthcoming
+      description: >
+       Association for Computational Linguistics (ACL) Anthology.
     - title: Collaborative Conceptual Engineering; Philosophy and Linguistics
       year: 2024
       description: >
@@ -76,6 +83,9 @@
 - title: Grants, Honors, and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Full student bursary to attend and present at The INternal Pragmatics Association Conference, Brisbane 2025
     - year: 2023
       items:
         - TAL Research Area Workshops (RAW) funding to organize a student-led workshop
@@ -119,6 +129,23 @@
 - title: Presentations
   type: time_table
   contents:
+    - title: >
+        "BERT's Conceptual Cartography: Mapping the Landscapes of Meaning" at the 8th
+        meeting of the Society for Computation in Linguistics (SCiL), University of Oregon. Co-presented with Ryan Daniels.
+      location: Oregon
+      year: 2025
+      invited: false
+    - title: >
+        "Conceptual Landscaping with BERT and Friends" Methodology Lightning Talk at the 8th
+        meeting of the Society for Computation in Linguistics (SCiL), University of Oregon. Co-presented with Ryan Daniels.
+      location: Oregon
+      year: 2025
+      invited: false
+    - title: >
+        "Deconstructing Arguments from the Bottom Up: An Empirical Approach to Verbal Reasoning" at the 5th European Experimental Philosophy Conference
+      location: Norwich
+      year: 2025
+      invited: false
     - title: >
         "The Forgotten Pragmatic Aspect of Conceptual Engineering" at the 6th
         International Conference of the American Pragmatics Association (AMPRA).
