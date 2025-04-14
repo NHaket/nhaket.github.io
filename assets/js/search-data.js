@@ -37,7 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-collaborative-conceptual-engineering-linguistics-and-philosophy-published-as-a-chapter-in-conceptual-engineering-methodological-and-metaphilosophical-issues-edited-by-piotr-stalmaszczyk",
+        },{id: "news-the-paper-bert-s-conceptual-cartography-mapping-the-landscapes-of-meaning-by-ryan-daniels-and-me-was-accepted-for-poster-presentation-at-the-eighth-society-for-computation-in-linguistics-conference-scil-2025-our-methodology-lightning-talk-conceptual-landscaping-with-bert-and-friends-was-also-accepted-at-the-same-conference",
+          title: 'The paper “BERT’s Conceptual Cartography: Mapping the Landscapes of Meaning” by Ryan Daniels...',
+          description: "",
+          section: "News",},{id: "news-my-proposed-chapter-conceptual-engineering-in-the-age-of-emerging-tech-a-bottom-up-approach-to-lexical-semantics-has-been-invited-to-contribute-to-the-edited-collection-conceptual-engineering-for-emerging-technologies-ed-by-manuel-gustavo-isaac-lily-eva-frank-and-jeroen-hopster-routledge-publishing-company",
+          title: 'My proposed chapter, “Conceptual Engineering in the Age of Emerging Tech: A Bottom-Up...',
+          description: "",
+          section: "News",},{id: "news-collaborative-conceptual-engineering-linguistics-and-philosophy-published-as-a-chapter-in-conceptual-engineering-methodological-and-metaphilosophical-issues-edited-by-piotr-stalmaszczyk",
           title: '“Collaborative Conceptual Engineering: Linguistics and Philosophy” published as a chapter in “Conceptual Engineering...',
           description: "",
           section: "News",},{id: "news-presentation-at-the-6th-international-conference-of-the-american-pragmatics-association-ampra-in-florida-titled-the-forgotten-pragmatic-aspect-of-conceptual-engineering",
