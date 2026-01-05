@@ -27,7 +27,9 @@ Hi! I’m Nina Haket. My research focuses on conceptual engineering, word meanin
 
 I currently work as a Research Associate on the project "Experimental argument analysis: Reasoning with stereotypes" with Profs Eugen Fischer and Paul Engelhardt at the University of East Anglia.
  
- Before this, I completed a Research Master’s in Linguistics at Leiden University and a Bachelor’s in Linguistcs at the University of Cambridge. My work combines theoretical linguistics with corpus analysis, and I’m particularly interested in the semantics-pragmatics interface and its role in language change.
+ Before this, I completed a Research Master’s in Linguistics at Leiden University and a Bachelor’s in Linguistcs at the University of Cambridge. My work combines theoretical linguistics with corpus analysis. 
+ 
+  I’m particularly interested in the semantics-pragmatics interface and its role in language change.
 
 ## Research Interests
 
