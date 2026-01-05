@@ -23,7 +23,11 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-Hi! I’m Nina Haket, a PhD student at the University of Cambridge, supervised by Prof. Kasia Jaszczolt. My research focuses on conceptual engineering, word meaning, and language change, with a particular emphasis on the relationship between philosophy and linguistics. Before this, I completed a Research Master’s in Linguistics at Leiden University and a Bachelor’s in Linguistcs at the University of Cambridge. My work combines theoretical linguistics with corpus analysis, and I’m particularly interested in the semantics-pragmatics interface and its role in language change.
+Hi! I’m Nina Haket. My research focuses on conceptual engineering, word meaning, and language change, with a particular emphasis on the relationship between philosophy and linguistics. I have am in the last stages of submitting my PhD, "Navigating Meaning Spaces: A Contextualist Approach to Conceptual Engineering" at the University of Cambridge, supervised by Prof. Kasia Jaszczolt.
+
+I currently work as a Research Associate on the project "Experimental argument analysis: Reasoning with stereotypes" with Profs Eugen Fischer and Paul Engelhardt at the University of East Anglia.
+ 
+ Before this, I completed a Research Master’s in Linguistics at Leiden University and a Bachelor’s in Linguistcs at the University of Cambridge. My work combines theoretical linguistics with corpus analysis, and I’m particularly interested in the semantics-pragmatics interface and its role in language change.
 
 ## Research Interests
 

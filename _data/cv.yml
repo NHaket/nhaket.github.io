@@ -47,13 +47,14 @@
 - title: Publications
   type: time_table
   contents:
-    - title: Paper for publication in the Journal of Pragmatics
+    - title: Paper for publication in Synthese
       year: Under review
       description: >
     - title: BERT's Conceptual Cartography; Mapping the Landscapes of Meaning
-      year: Forthcoming
+      year: 2025
       description: >
-       Association for Computational Linguistics (ACL) Anthology.
+        Haket, N., & Daniels, R. (2025). BERT’s conceptual cartography: Mapping the landscapes
+        of meaning. Society for Computation in Linguistics, 8(1), 10. https://doi.org/10.7275/scil.3145
     - title: Collaborative Conceptual Engineering; Philosophy and Linguistics
       year: 2024
       description: >
