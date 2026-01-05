@@ -10,6 +10,15 @@
     - name: Email
       value: nch35 [at] cam.ac.uk
 
+- title: Current Position
+  type: time_table
+  contents:
+    - title: Research Associate
+      institution: University of East Anglia, School of Psychology
+      year: 2026 - Present
+      description: >
+        Working on the project "Experimental argument analysis: Reasoning with stereotypes" under the supervision of Prof. Eugen Fischer and Assoc. Prof. Paul Engelhardt. Conducting experimental research using eye tracking and large-scale individual differences datasets, with statistical analysis in R including Linear Mixed Effects models and Growth Curve modelling.
+
 - title: Education
   type: time_table
   contents:
