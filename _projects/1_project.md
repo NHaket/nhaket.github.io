@@ -32,7 +32,7 @@ By focusing on the interplay between language and context, my work examines the 
 
 ## Related Publications
 
-Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and Linguistics. In *Conceptual Engineering: Methodological and Metaphilosophical Issues* (P. Stalmaszczyk, eds). [DOI: 10.30965/9783969753026_012](https://doi.org/10.30965/9783969753026_012)  
+Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and Linguistics. In *Conceptual Engineering: Methodological and Metaphilosophical Issues* (P. Stalmaszczyk, eds). [DOI: 10.30965/9783969753026_012]()  
 
 Haket, N. (2023). Nullius In Verba: Conceptual Engineering and the Royal Society Corpus. *Cambridge Occasional Papers in Linguistics*, 15, 155–195.  
 
