@@ -8,32 +8,48 @@ category: work
 related_publications: true
 ---
 
-Imagine attempting to reshape the way we think and communicate by redefining the words we use. This is the central focus of Conceptual Engineering (CE): modifying meanings to influence minds and, potentially, society. For instance, reinterpreting the concept of **WOMAN** in terms of social oppression rather than biology (Haslanger, 2000) reflects a deliberate attempt to align language with evolving social understandings. 
+Words are not neutral containers for ideas. They carry assumptions, histories, and framings that shape how we think, and sometimes people try to change them deliberately. The field of **Conceptual Engineering (CE)** takes this seriously: it asks how and why the meanings of words get revised, what it takes to revise them successfully, and what the philosophical and social consequences of doing so are. Classic examples include proposals to redefine WOMAN in terms of social structure rather than biology (Haslanger, 2000), or MARRIAGE as the law has understood it over recent decades. My PhD developed a new theoretical framework for CE grounded in the philosophy of language and linguistics, and tested it using computational and corpus-based methods.
 
-While these ideas are thought-provoking, CE’s full implications and practical applications remain areas of ongoing exploration. My research investigates this potential, connecting philosophical insights with linguistic methodologies to examine how words influence—and are influenced by—their contexts. Rather than making bold claims about CE’s transformative power, my work seeks to explore its theoretical and methodological dimensions.
+## The PIB Framework
 
-## Words Aren’t Everything
+A central contribution of the thesis is the **PIB framework**, which distinguishes three structural layers within word meaning:
 
-Some approaches to CE focus heavily on the power of individual words, but language rarely operates in isolation. Consider a mother reassuring her child with a cut, saying, "You’re not going to die." The literal interpretation of the words clearly doesn’t apply here (Bach, 1994). This demonstrates how **meaning emerges from entire utterances and their contexts, rather than just isolated terms**. Any comprehensive approach to CE must account for these layers of meaning to address the complexities of real-world communication.
+- **E-structure**: the encoded linguistic meaning of a word, the conventional semantic content that anchors interpretation.
+- **C-structure**: the conceptual content associated with a word, including stereotypical assumptions, world knowledge, and evaluative freight.
+- **L-structure**: the meaning that actually contributes to the proposition expressed in a given utterance, shaped by context and pragmatic processes.
 
-## Mapping Meaning in Use
+The framework makes it possible to identify precisely where in a word's meaning a CE intervention is targeted, and to predict what effects it is likely to have at the propositional level. This matters because many CE proposals conflate these layers, targeting C-structure (cultural assumptions) while assuming the effects will automatically propagate to L-structure (actual communicated content). The PIB framework shows why that assumption is often unwarranted.
 
-My research combines theoretical inquiry with empirical methods to investigate how meaning varies across contexts. Spoken language, a primary medium of communication, often receives less attention in CE. To address this gap, I use **contextualized word embeddings** created with **BERT** on the spoken component of the British National Corpus 2014 (Love et al., 2017). This allows me to construct **landscapes of meaning**—quantitative and visual representations of how word usage changes depending on context. By examining these landscapes, my work aims to provide conceptual engineers with tools for understanding the nuances of their targets.
+## The Problem with Words Alone
 
-## Implications
+Most CE research focuses on individual words as its target of analysis. But meaning does not live in words in isolation. Consider a mother telling her child with a scraped knee, "You're not going to die." The words, taken literally, are obviously not the point. Meaning emerges at the level of the proposition: the full structured thought expressed by an utterance in context, not just the sum of its parts (Bach, 1994).
 
-By integrating multiple levels and units of meaning, my research contributes to a more nuanced understanding of CE and its broader implications. While CE’s practical impact may be uncertain, its frameworks offer valuable insights into the dynamics of language, thought, and societal change. Beyond CE, this work has relevance for:
+This has real consequences for CE. If you engineer a word without accounting for how it combines with context to generate propositional content, you may end up with a revised definition that fails to do what you intended, or that produces unintended meanings in the utterances where it actually appears. My thesis argues that CE needs a properly propositional framework, and that **Default Discourse Semantics (DDS)**, developed by Prof. Kasia Jaszczolt, provides exactly that. DDS models how hearers construct the primary interpreted proposition from a mix of linguistic meaning, pragmatic inference, social cognition, and world knowledge, giving CE a theoretically rigorous account of what it is actually trying to change.
 
-- **Diachronic linguistics**, offering detailed models for understanding semantic change over time.  
-- **Sociolinguistics, anthropology, and philosophy**, exploring the relationship between language and social structures.  
-- **Natural Language Processing (NLP)**, advancing methods for modeling context-dependent variation in word usage.  
 
-By focusing on the interplay between language and context, my work examines the potential and limitations of CE as a framework for understanding and influencing meaning.
+## Mapping Meaning Empirically
+
+Theory alone is not enough. To show that these distinctions have real purchase on how language actually works, the thesis deploys **BERT-based distributional semantic modelling** on the spoken component of the British National Corpus 2014. Using contextualised word embeddings, I construct what I call **landscapes of meaning**: quantitative and visual representations of how a word's usage clusters differently across discourse contexts, speakers, and social settings.
+
+These landscapes make abstract theoretical claims tractable. They show, for instance, that the distributional behaviour of a word in spoken interaction reflects the C-structure assumptions associated with it, and that these cluster differently depending on who is speaking and in what context. This provides empirical grounding for the claim that CE interventions face different challenges depending on which layer of meaning they target, and in which discourse communities.
+
+This strand of work was developed in collaboration with Ryan Daniels, resulting in a co-authored paper in the Proceedings of the Society for Computation in Linguistics.
+
+
+## Key Contributions
+
+Taken together, the thesis makes three main contributions:
+
+- A **propositional reframing of CE** via DDS, showing that meaning revision must be understood at the level of the full proposition rather than the isolated word.
+- The **PIB framework**, providing a principled taxonomy of the layers of word meaning that CE can target, with predictions about which interventions are likely to succeed and why.
+- **Empirical evidence**, grounding the theoretical claims in how language actually behaves.
 
 ## Related Publications
 
-Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and Linguistics. In *Conceptual Engineering: Methodological and Metaphilosophical Issues* (P. Stalmaszczyk, eds). [DOI: 10.30965/9783969753026_012]()  
+Haket, N. (Forthcoming). From Words to Propositions: Rethinking Meaning Construction in Conceptual Engineering. *Synthese*.
 
-Haket, N. (2023). Nullius In Verba: Conceptual Engineering and the Royal Society Corpus. *Cambridge Occasional Papers in Linguistics*, 15, 155–195.  
+Haket, N. & Daniels, R. (2025). BERT's Conceptual Cartography: Mapping the Landscapes of Meaning. *Proceedings of the Society for Computation in Linguistics*, 8th meeting. [DOI: 10.7275/scil.3145](https://doi.org/10.7275/scil.3145)
 
-Haket, N. and Daniels, R. BERT’s Conceptual Cartography: Mapping the Landscapes of Meaning 
+Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and Linguistics. In *Conceptual Engineering: Methodological and Metaphilosophical Issues* (P. Stalmaszczyk, ed.). Brill. [DOI: 10.30965/9783969753026_012](https://doi.org/10.30965/9783969753026_012)
+
+Haket, N. (2023). Nullius In Verba: Conceptual Engineering and the Royal Society Corpus. *Cambridge Occasional Papers in Linguistics*, 15, 155–195.

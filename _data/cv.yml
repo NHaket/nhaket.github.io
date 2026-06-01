@@ -3,10 +3,6 @@
   contents:
     - name: Name
       value: Nina Haket
-    - name: Address
-      value: >-
-        University of Cambridge, Trinity Hall College, Trinity Lane, Cambridge,
-        CB2 1TJ
     - name: Email
       value: nch35 [at] cam.ac.uk
 
@@ -15,303 +11,313 @@
   contents:
     - title: Research Associate
       institution: University of East Anglia, School of Psychology
-      year: 2026 - Present
+      year: 2026
       description: >
-        Working on the project "Experimental argument analysis: Reasoning with stereotypes" under the supervision of Prof. Eugen Fischer and Assoc. Prof. Paul Engelhardt. Conducting experimental research using eye tracking and large-scale individual differences datasets, with statistical analysis in R including Linear Mixed Effects models and Growth Curve modelling.
+        Fritz Thyssen Foundation-funded project on experimental argument analysis, working with Prof. Eugen Fischer and Dr Paul Engelhardt across an interdisciplinary team of linguists, philosophers, and psychologists. Designed and administered large-scale questionnaire studies via Prolific and Qualtrics; conducted hierarchical cluster analysis, mixed-effects modelling, and regression analyses in R; co-authored publications and conference presentations.
 
 - title: Education
   type: time_table
   contents:
     - title: PhD Theoretical and Applied Linguistics
       institution: University of Cambridge
-      year: 2022 - Present
+      year: 2022 - 2026
       description: >
-        Provisional title "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering". Supervised by Prof. Kasia Jaszczolt.
+        Title: "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering". Supervised by Prof. Kasia Jaszczolt. One examiner had no corrections, the other minor corrections.
     - title: Research Master of Arts, Linguistics
       institution: Universiteit Leiden
       year: 2020 - 2022
       description: >
-        ResMa thesis titled "Nullius In Verba: Conceptual Engineering and the Royal Society Corpus", supervised by Lauren Fonteyn and Janet Connor. Achieved Cum Laude Honors.
+        Thesis: "Nullius In Verba: Conceptual Engineering and the Royal Society Corpus", supervised by Lauren Fonteyn and Janet Connor. Achieved Cum Laude Honours.
     - title: BA Linguistics
       institution: University of Cambridge
       year: 2017 - 2020
       description: >
-        BA thesis titled "Language Contact and the Phylogeny and Phonology of Early English", supervised by David Willis. Achieved First Class Honours.
+        Thesis: "Language Contact and the Phylogeny and Phonology of Early English", supervised by David Willis. Achieved First Class Honours.
 
 - title: Areas of Specialization
   type: nested_list
   contents:
-    - title: Areas of Specialization
+    - title: Areas of Specialisation
       items:
         - Conceptual Engineering
         - Language Change
         - Semantics-Pragmatics Boundary
         - Word Meaning
+        - Pragmatics
     - title: Areas of Competence
       items:
         - Historical Linguistics
         - Sociolinguistics
         - Philosophy of Language
+    - title: Technical Competencies
+      items:
+        - R
+        - Python
+        - LaTeX
+        - Corpus Analysis Tools
 
 - title: Publications
   type: time_table
   contents:
-    - title: Paper for publication in Synthese
-      year: Under review
+    - title: From Words to Propositions; Rethinking Meaning Construction in Conceptual Engineering
+      year: Forthcoming
       description: >
+        Haket, N. (Forthcoming). From Words to Propositions: Rethinking Meaning Construction in Conceptual Engineering. Synthese [Q1; top-ranked philosophy journal].
+    - title: When stereotypical inferences prevail in polysemy processing; Explaining fallacies of equivocation
+      year: Under Review
+      description: >
+        Fischer, E., Stanton, K., Lazaridou-Chatzigoga, D., Haket, N. & Engelhardt, P. When stereotypical inferences prevail in polysemy processing: Explaining fallacies of equivocation. Mind and Language [Q1 in Linguistics and Language; Q1 in Philosophy]. Revisions in progress.
+    - title: Conceptual Engineering in the Age of Emerging Tech; A Bottom-Up Approach to Lexical Semantics
+      year: Under Review
+      description: >
+        Haket, N. Conceptual Engineering in the Age of Emerging Tech: A Bottom-Up Approach to Lexical Semantics. In Conceptual Engineering for Emerging Technologies (eds. Isaac, Frank & Hopster). Routledge. Revisions in progress.
+    - title: Language Under Construction; Conceptual Engineering and Linguistics
+      year: Under Review
+      description: >
+        Haket, N. Language Under Construction: Conceptual Engineering and Linguistics. Handbook chapter. Under review.
     - title: BERT's Conceptual Cartography; Mapping the Landscapes of Meaning
       year: 2025
       description: >
-        Haket, N., & Daniels, R. (2025). BERT’s conceptual cartography: Mapping the landscapes
-        of meaning. Society for Computation in Linguistics, 8(1), 10. https://doi.org/10.7275/scil.3145
+        Haket, N. & Daniels, R. (2025). BERT's Conceptual Cartography: Mapping the Landscapes of Meaning. ACL Anthology: Proceedings of the Society for Computation in Linguistics, 8th meeting. https://doi.org/10.7275/scil.3145
     - title: Collaborative Conceptual Engineering; Philosophy and Linguistics
       year: 2024
       description: >
-        Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and
-        Linguistics. In Conceptual Engineering: Methodological and
-        Metaphilosophical Issues (P. Stalmaszczyk, eds).
+        Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and Linguistics. In Conceptual Engineering: Methodological and Metaphilosophical Issues (P. Stalmaszczyk, ed.). Brill. https://doi.org/10.30965/9783969753026_012
     - title: Could this be next for corpus linguistics?
       year: 2024
       description: >
-        Fonteyn, L., Manjavacas, E., Haket, N., Dorst, A., Kruijt, E. (2024).
-        Could this be next for corpus linguistics? Methods of semi-automatic
-        data annotation with contextualized word embeddings. Linguistics
-        Vanguard. https://doi.org/10.1515/lingvan-2022-0142
+        Fonteyn, L., Manjavacas, E., Haket, N., Dorst, A. & Kruijt, E. (2024). Could this be next for corpus linguistics? Methods of semi-automatic data annotation with contextualised word embeddings. Linguistics Vanguard. https://doi.org/10.1515/lingvan-2022-0142
     - title: Nullius In Verba; Conceptual Engineering and the Royal Society Corpus
       year: 2023
       description: >
-        Haket, N. (2023). Nullius In Verba: Conceptual Engineering and the Royal
-        Society Corpus. Cambridge Occasional Papers in Linguistics, 15, 155–195.
+        Haket, N. (2023). Nullius In Verba: Conceptual Engineering and the Royal Society Corpus. Cambridge Occasional Papers in Linguistics, 15, 155–195.
     - title: Language Contact and the Phylogeny and Phonology of Early English
       year: 2021
       description: >
-        Haket, N. (2021). Language Contact and the Phylogeny and Phonology of
-        Early English. Journal of the Undergraduate Linguistics Association of
-        Great Britain, 1(1), 1–32.
+        Haket, N. (2021). Language Contact and the Phylogeny and Phonology of Early English. Journal of the Undergraduate Linguistics Association of Great Britain, 1(1), 1–32.
 
 - title: Grants, Honors, and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Shortlisted for the Trinity College Junior Research Fellowship (Cambridge), a highly competitive early-career award attracting hundreds of applicants from leading global universities.
     - year: 2025
       items:
-        - Full student bursary to attend and present at The INternal Pragmatics Association Conference, Brisbane 2025
+        - International Pragmatics Association Conference Full Bursary. Competitive funding for presentation at the premier international pragmatics conference, Brisbane.
     - year: 2023
       items:
-        - TAL Research Area Workshops (RAW) funding to organize a student-led workshop
+        - TAL Research Area Workshops (RAW) funding to organise a student-led interdisciplinary workshop.
     - year: 2022
       items:
-        - Cambridge Trust International Scholarship for full PhD funding
+        - Cambridge Trust International Scholarship for full PhD funding, covering tuition and living expenses for exceptional international students.
     - year: 2017
       items:
-        - Sufian Passamano Prize for Linguistics
-        - Elected to a Bateman scholarship for attaining a First-Class Honours classification every year of my bachelor’s degree
+        - Sufian Passamano Prize for Linguistics. Awarded for outstanding academic achievement in linguistics.
+        - Bateman Scholarship. Elected fellowship for maintaining First-Class Honours classification throughout undergraduate degree.
 
 - title: Research and Employment
   type: time_table
   contents:
+    - title: Research Assistant
+      institution: University of Cambridge
+      year: 2026 - present
+      description: >
+        Linguistic, Cognitive, and Ethical Dimensions of Classical Rabbinic Midrash.
+      items:
+        - Annotating and analysing qualitative data from experiments investigating how participants interpret ambiguous or unconventional linguistic stimuli.
+        - Examining how speakers extend or reshape lexical meaning in ways that mirror broader processes of semantic change and meaning negotiation.
+    - title: Research Associate
+      institution: University of East Anglia
+      year: 2026
+      description: >
+        Fritz Thyssen Foundation-funded project on experimental argument analysis, working with Prof. Eugen Fischer and Dr Paul Engelhardt.
+      items:
+        - Designed and administered questionnaire-based studies recruiting participants via Prolific and Qualtrics, generating and quality-controlling datasets of 1,000+ records per study.
+        - Facilitated focus groups with annotation teams to establish coding criteria, resolve inter-rater disagreements, and ensure qualitative consistency across annotation rounds.
+        - Conducted hierarchical cluster analysis, mixed-effects modelling, and regression analyses in R; results contribute to a manuscript currently under revision at Mind and Language (Q1).
+        - Co-authored conference abstracts and journal publications; reviewed literature across linguistics, psychology, and philosophy.
+    - title: Doctoral Research Project
+      institution: University of Cambridge
+      year: 2022 - 2026
+      description: >
+        Developed and deployed corpus-based, computational, and experimental methods to investigate how linguistic framing constructs propositional content and shapes conceptual representation.
+      items:
+        - Corpus strand; compiled and systematically analysed a corpus of public texts from the British National Corpus using BERT-based distributional semantic models, mapping lexical clustering across discourse contexts.
+        - Experimental strand; designed and implemented multiple questionnaire-based participant studies, generating datasets analysed through full statistical modelling in R (CLMMs, ordinal regression, Wilcoxon tests).
+        - Produced 4 peer-reviewed publications across Q1 journals and competitive international venues; 4 further outputs in press or under review.
+        - Delivered 12+ international conference presentations, including 3 invited talks.
+    - title: Research Assistant
+      institution: University of East Anglia
+      year: 2025
+      description: >
+        Working Research Assistant on an experimental philosophy project led by Dr Dimitra Lazaridou-Chatzigoga and Prof Eugen Fischer.
+      items:
+        - Manually annotated 1,000+ linguistic tokens, applying and refining a detailed multi-layer annotation schema for semantic and pragmatic features.
+        - Contributed to the development, testing, and documentation of the project's coding framework, including resolving edge cases and improving inter-annotator reliability.
+        - Annotations contributed to an in-development paper on the lexical semantics of "imagine".
+    - title: Dawn Supercomputer Pioneer Project
+      institution: University of Cambridge Research Computing Service
+      year: 2024
+      items:
+        - Selected as a Pioneer Project member with early access to the Dawn Supercomputer (Intel × Dell Technologies), working on high-performance computational linguistics research.
+        - Produced substantial research outputs including three conference presentations, a chapter in an edited volume, and a peer-reviewed methodology paper in the Society for Computation in Linguistics proceedings.
+    - title: Research Assistant
+      institution: MacBERTh Project, Universiteit Leiden
+      year: 2021 - 2022
+      items:
+        - Contributed to the design and compilation of a corpus of historical English texts for a funded interdisciplinary project building transformer-based language models.
+        - Developed annotation protocols applied systematically across 1,500+ records; collaborated with computational linguists, NLP researchers, and historians of language.
+        - Work directly contributed to a peer-reviewed publication in Linguistics Vanguard (Fonteyn et al., 2024) and an international conference presentation.
+    - title: Researcher
+      institution: When Philosophers Meet Linguists; The Conceptual Engineering Project
+      year: 2020 - 2021
+      items:
+        - Provided linguistic input to a previously philosophy-only domain, resulting in multiple publications and conference presentations.
+        - Conducted independent research and prepared presentations.
     - title: Student Assistant
       institution: Lorentz Centre Workshop for Ethics in Linguistics
       year: 2022
       items:
-        - Prepare and run workshop materials
-        - Collate materials during the workshop
-        - Communicate with participants and contributors
-    - title: Research Assistant
-      institution: MacBERTh Project
-      year: 2022
-      items:
-        - Train NLP models on historical data
-        - Focus on the Royal Society Corpus
-    - title: Researcher
-      institution: When Philosophers Meet Linguists; The Conceptual Engineering Project
-      year: 2021
-      items:
-        - Provide linguistic input to philosophical domains
-        - Conduct independent research
-        - Prepare presentations
-    - title: Translator
-      institution: The Uab Meteo Middelkoop Dictionary
-      year: 2021
-      items:
-        - Translate the dictionary into English for publication
+        - Supported an international workshop on ethical questions in linguistic research.
+        - Responsibilities included workshop preparation, material collation, publication coordination, and communications with participants across varied disciplines.
 
-- title: Presentations
+- title: Conference Presentations
   type: time_table
   contents:
     - title: >
-        "BERT's Conceptual Cartography: Mapping the Landscapes of Meaning" at the 8th
-        meeting of the Society for Computation in Linguistics (SCiL), University of Oregon. Co-presented with Ryan Daniels.
-      location: Oregon
+        *Linguistics, Conceptual Engineering, and the Spectrum Between Them. University of Cambridge Semantics, Pragmatics, and Philosophy Research Group Meeting.
+      year: 2026
+      invited: true
+    - title: >
+        BERT's Conceptual Cartography: Mapping the Landscapes of Meaning. 8th meeting of the Society for Computation in Linguistics (SCiL), University of Oregon.
       year: 2025
-      invited: false
     - title: >
-        "Conceptual Landscaping with BERT and Friends" Methodology Lightning Talk at the 8th
-        meeting of the Society for Computation in Linguistics (SCiL), University of Oregon. Co-presented with Ryan Daniels.
-      location: Oregon
+        Conceptual Landscaping with BERT and Friends — Methodology Lightning Talk. 8th meeting of the Society for Computation in Linguistics (SCiL), University of Oregon. Co-presented with Ryan Daniels.
       year: 2025
-      invited: false
     - title: >
-        "Deconstructing Arguments from the Bottom Up: An Empirical Approach to Verbal Reasoning" at the 5th European Experimental Philosophy Conference
-      location: Norwich
+        (Meta)Pragmatics in Conceptual Engineering — Choosing the Best Words Panel. 19th International Pragmatics Association Conference, Brisbane. Supported by competitive full bursary covering all registration, travel, and accommodation.
       year: 2025
-      invited: false
     - title: >
-        "The Forgotten Pragmatic Aspect of Conceptual Engineering" at the 6th
-        International Conference of the American Pragmatics Association (AMPRA).
-        USF St Petersburg
-      location: Florida
+        Deconstructing Arguments from the Bottom Up: An Empirical Approach to Verbal Reasoning. 5th European Experimental Philosophy Conference, Norwich.
+      year: 2025
+    - title: >
+        The Forgotten Pragmatic Aspect of Conceptual Engineering. 6th International Conference of the American Pragmatics Association (AMPRA), Florida.
       year: 2024
       invited: true
     - title: >
-        "Why Making Words Better Is Not That Simple- Conceptual Engineering and
-        Distributional Semantics" at The 11th Inter-Varietal Applied Corpus
-        Studies (IVACS), University of Cambridge
-      location: Cambridge
+        Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics. 11th Inter-Varietal Applied Corpus Studies (IVACS) Conference, Cambridge.
       year: 2024
     - title: >
-        "Why Making Words Better Is Not That Simple- Conceptual Engineering and
-        Distributional Semantics (Invited)" at Pre-Conference Workshop for the
-        4th Experimental Philosophy Conference on Large Language Models for
-        Experimental Philosophy at the Jagiellonian University.
-      coauthor: Ryan Daniels
-      location: Krakow
+        *Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics. Pre-conference workshop, 4th Experimental Philosophy Conference on Large Language Models for Experimental Philosophy, Kraków. Co-presented with Ryan Daniels.
       year: 2024
       invited: true
     - title: >
-        "Intra and Inter-Word Variation in Conceptual Engineering (Invited)" at
-        Conceptual Engineering Network (CEN) Lecture. <a href='https://www.youtube.com/watch?v=qN6pKFT-9gA&t=2468s'>Watch lecture here.</a>
+        *Intra- and Inter-word Variation in Conceptual Engineering. Conceptual Engineering Network (CEN) Lecture, virtual. <a href='https://www.youtube.com/watch?v=qN6pKFT-9gA&t=2468s'>Watch lecture here.</a>
       year: 2024
       invited: true
-      url: 'https://www.youtube.com/watch?v=qN6pKFT-9gA&t=2468s'
     - title: >
-        "Conceptual Engineering- Fixing the Concept of NOW in Russian" at
-        Workshop on Abstract Concepts, Perception, and Language- What We Think
-        and How We Say It, University of Cambridge 
-      location: Cambridge
+        Conceptual Engineering: Fixing the Concept of NOW in Russian. Workshop on Abstract Concepts, Perception, and Language: What We Think and How We Say It, Cambridge.
       year: 2024
     - title: >
-        "Empirical Dilemmas in Conceptual Engineering- Words and Beyond
-        (Invited)" at Pre-Conference Workshop for the 3rd European Experimental
-        Philosophy Conference on The Dawn of Experimental Conceptual Engineering at UTH Zurich.
-      location: Zurich
+        *Empirical Dilemmas in Conceptual Engineering: Words and Beyond. Pre-conference workshop, 3rd European Experimental Philosophy Conference on The Dawn of Experimental Conceptual Engineering, Zurich.
       year: 2023
       invited: true
     - title: >
-        "Nullius in Verba - Conceptual Engineering and the Royal Society Corpus"
-        at 18th International Pragmatics Association (IPrA) Conference in Brussels.
-      location: Brussels
+        Nullius in Verba: Conceptual Engineering and the Royal Society Corpus. 18th International Pragmatics Association Conference, Brussels.
       year: 2023
     - title: >
-        "Collaborative Conceptual Engineering" at the 8th International Conference
-        on the Philosophy of Language and Linguistics at the University of Lodz. 
-      location: Lodz
+        Collaborative Conceptual Engineering. 8th International Conference on the Philosophy of Language and Linguistics, Łódź.
       year: 2023
-    - title: >
-        "Conceptual Engineering and Propositions- An Argument for Functional
-        Dynamic Propositions (Invited)" at the Semantics, Pragmatics, and Philosophy
-        Workgroup (SPP) Meeting at the University of Cambridge.
-      location: Cambridge
-      year: 2023
-      invited: true
-
-- title: Networks and Projects
-  type: time_table
-  contents:
-    - title: Dawn Supercomputer Pioneer Project
-      description: >
-        Pioneer project member in the Dawn Supercomputer Initiative at the
-        University of Cambridge’s Research Computing Service.
-    - title: University of East Anglia annotation project
-      description: >
-        Working with ​Dr Dimitra Lazaridou-Chatzigoga and Prof Eugen Fischer on an experimental philosophy project.
-
 
 - title: 'Teaching, Mentoring, and Pedagogy'
   type: time_table
   contents:
+    - title: Lecturer, Semantics and Pragmatics (TAL Tripos and MPhil, MMLL)
+      institution: University of Cambridge
+      year: 2025
+      description: >
+        Delivered a lecture series for undergraduate and MPhil students. Topics included truth-conditional semantics, Gricean pragmatics, relevance theory, and the semantics-pragmatics interface.
     - title: Undergraduate Supervisor
+      institution: University of Cambridge
+      year: 2022 - present
+      description: >
+        Four years of small-group supervision (2–6 students per group) across multiple Cambridge colleges. Provided detailed written and oral feedback on weekly essays; adapted teaching to students at widely varying levels of prior knowledge; worked consistently with Student Support Documents. Identified a structural problem in supervision group organisation and successfully advocated for a change in departmental practice.
       items:
-        - History and Varieties of English
-        - Structures and Meanings
-        - Semantics and Pragmatics
-    - title: Lecturer
-      items:
-        - Semantics and Pragmatics (Li10) Michaelmas 2025
+        - 'Li2: Structures and Meanings (Introduction to Semantics and Pragmatics)'
+        - 'Li10: Semantics and Pragmatics (Advanced Semantics and Pragmatics)'
+        - 'Li4: History and Varieties of English (Historical Linguistics and Sociolinguistics)'
     - title: Dissertation Supervisor
+      institution: University of Cambridge
+      year: 2024 - present
+      description: >
+        Supervised extended independent research projects in semantics, pragmatics, and discourse analysis. Dissertation supervision at Cambridge is typically reserved for more senior academic staff.
       items:
-        - >-
-          Semantics, Pragmatics, and Philosophy of Language Undergraduate dissertation supervisor
+        - '"The Flirting Game: A pragmatic analysis of collaborative meaning negotiation in flirting interactions." The student achieved a high first-class mark (2024–25).'
+    - title: Project Supervisor
+      institution: University of Cambridge
+      description: >
+        Supervised student research projects across multiple schemes.
+      items:
+        - 'Pembroke Cambridge Summer Programme: "Cross-cultural construction of death: A multimodal contrastive study of obituary discourse in Chinese and American media."'
+        - 'Foundation Year Programme: "Tag questions, interrogatives and gender: linguistic weakness or conversational strategy?"'
 
-- title: Administrative Roles
+- title: Conference and Workshop Organisation
   type: time_table
   contents:
-    - title: Communications Assistant Editor
-      items:
-        - 2024-present
-        - An open-access online journal publishing high-quality
-          peer-reviewed language research that addresses issues concerning
-          languages, cultures, and societies in accessible and non-technical
-          language. We promote engagement with policymakers, journalists,
-          and stakeholders in education, health, business, and elsewhere.
-    - title: Organiser of the Semantics, Pragmatics, and Philosophy Workgroup
-      items:
-        - 2022-present
-        - A bi-weekly Cambridge University meeting in which authors of
-          recently published papers are invited to discuss their work. My
-          role includes selecting papers for discussion, contacting authors
-          to attend, moderating meetings, and communicating with the rest of
-          the university.
-    - title: Editor of the Cambridge Occasional Papers in Linguistics Journal
-      items:
-        - 2022-present
-        - This journal publishes the work of Cambridge-affiliated
-          linguistics researchers on an annual basis. My role includes
-          communicating with the authors and using Latex to format and
-          publish the papers.
+    - title: Co-Organiser, 11th Biennial Experimental Pragmatics Conference (XPRAG 2025)
+      institution: University of Cambridge
+      year: 2025
+      description: >
+        Co-organised one of the field's flagship international conferences: a three-day event with 250 attendees across in-person and online components. Responsibilities included speaker invitation and coordination, programme scheduling, promotional materials, and participant communications.
+    - title: Organiser, Abstract Concepts, Perception, and Language Workshop
+      institution: University of Cambridge
+      year: 2024
+      description: >
+        Independently conceived, secured competitive TAL Research Area Workshops funding for, and delivered a one-day interdisciplinary workshop. Managed all aspects including call for abstracts, speaker selection, catering, promotional materials, and day-of coordination.
+    - title: Organiser, LaTeX Workshop
+      institution: Theoretical and Applied Linguistics Department, University of Cambridge
+      year: 2023
+      description: >
+        Designed and delivered a practical skills workshop for linguistics postgraduates on document preparation, bibliography management, and formatting for academic submission.
+
+- title: Administrative and Editorial Roles
+  type: time_table
+  contents:
+    - title: Communications Assistant Editor, Languages, Society and Policy Journal
+      year: 2024 - present
+      description: >
+        An open-access journal publishing high-quality peer-reviewed language research addressing issues of languages, cultures, and societies in accessible, non-technical language, with a mission to promote engagement with policymakers, journalists, and stakeholders in education, health, and business. Responsibilities include maintaining and updating the journal website, distributing calls for papers, and managing author correspondence throughout the submission process.
+    - title: Organiser, Semantics, Pragmatics and Philosophy Workgroup
+      institution: University of Cambridge
+      year: 2022 - present
+      description: >
+        Founded and convene a bi-weekly Cambridge University meeting in which authors of recently published papers are invited to discuss their work. Responsibilities include selecting papers for discussion, contacting and briefing authors, moderating meetings, and communicating with a university-wide membership. Maintained consistent programming across three years.
+    - title: Editor, Cambridge Occasional Papers in Linguistics
+      year: 2022 - 2025
+      description: >
+        Delivered three annual volumes as sole editor without a missed deadline: solicited and assessed submissions, managed all author correspondence, proofread and copy-edited accepted manuscripts, oversaw LaTeX typesetting, and managed print and digital distribution.
 
 - title: Public Communications and Outreach
   type: time_table
   contents:
     - title: Presentation at the AI Café
       description: >
-        Presentation at the AI Café organised by CL Accelerate Science to exemplify work that can be done with LLMs, July 2024
+        Presentation at the AI Café organised by CL Accelerate Science to exemplify work that can be done with LLMs, July 2024.
     - title: ANNOTATED. Episode 01 - Nina Haket
       description: >
-        Podcast recording for the Blog of the Undergraduate Linguistics Association 
-        of Britain, explaining my research and advising current undergraduate students. 
-        <a href='https://ulab.substack.com/p/annotated-episode-01-nina-haket'>Find episode here</a>
+        Podcast recording for the Blog of the Undergraduate Linguistics Association of Britain, explaining my research and advising current undergraduate students.
+        <a href='https://ulab.substack.com/p/annotated-episode-01-nina-haket'>Find episode here.</a>
     - title: In Search of a Language Utopia
       description: >
-        Magazine article written in *The Low Countries*, an academic magazine aiming 
-        to target all aspects of language and culture. Lichtsteiner, L., & Haket, N. (2021b). 
-        In Search of a Language Utopia. The Low Countries, 4(4).
-    - title: Student Ambassador for the Trinity Hall 'You'll fit in' residential programme.
+        Magazine article written in The Low Countries, an academic magazine targeting all aspects of language and culture. Lichtsteiner, L., & Haket, N. (2021). In Search of a Language Utopia. The Low Countries, 4(4).
+    - title: Student Ambassador
       description: >
-        This free programme to students in Year 12 who are considering applying to Cambridge University and who belong to underrepresented ethnic backgrounds.
-
-
-- title: Conference and Workshop Organisation
-  type: time_table
-  contents:
-    - title: Organiser, 11th Biennial Experimental Pragmatics Conference (XPRAG 2025) 
-      items:
-        - XPrag will be held at the University of Cambridge, from September 17th to September 19th, 2025. 
-        - 'The University of Cambridge'
-        - September 2025
-    - title: Abstract Concepts, Perception, and Language - What We Think and How We Say It Workshop
-      items:
-        - Co-organiser of this interdisciplinary workshop that brought together early-stage researchers from multiple countries.
-        - 'The University of Cambridge'
-        - April 2024
-    - title: LATEX Workshop
-      items:
-        - Co-organiser of a workshop to teach and exemplify the use of LATEX in academia, focussing on linguistics contexts
-        - 'Theoretical and Applied Linguistics Department, University of Cambridge'
-        - January 2023
+        Student Ambassador for the Trinity Hall "You'll Fit In" residential programme, a free programme for Year 12 students considering applying to Cambridge who belong to underrepresented ethnic backgrounds.
 
 - title: Refereeing
   type: time_table
   contents:
     - title: Referee
       items:
-        - 'Theoria - An International Journal for Theory, History, and Foundations of Science'
+        - 'Theoria: An International Journal for Theory, History and Foundations of Science'
