@@ -13,12 +13,16 @@
       institution: University of Cambridge
       year: 2026 - present
       description: >
-        Non-stipendiary postdoctoral affiliation awarded to recent PhD graduates to support ongoing research within the Faculty of Modern and Medieval Languages and Linguistics.
+        Postdoctoral affiliation awarded to recent PhD graduates to support ongoing research within the Faculty of Modern and Medieval Languages and Linguistics.
     - title: Research Collaborator, FORSA Project
       institution: University of East Anglia
       year: 2026 - present
       description: >
-        Unpaid research collaborator on a British Academy/Leverhulme-funded project investigating cross-cultural variation in concepts of forgiveness and their implications for restorative justice in post-Apartheid South Africa. Developing annotation frameworks for qualitative linguistic data and analysing interview and survey data with researchers at the University of Fort Hare.
+        Research collaborator on a British Academy/Leverhulme-funded project investigating cross-cultural variation in concepts of forgiveness and their implications for restorative justice in post-Apartheid South Africa.
+      items:
+        - Developing and refining annotation frameworks for qualitative linguistic data, enabling systematic analysis of culturally variable conceptualisations of forgiveness.
+        - Conducting qualitative and quantitative analyses of interview and survey data.
+        - Supporting collaboration with researchers at the University of Fort Hare, contributing to data coding, methodological development, and cross-cultural interpretation of findings.
 
 - title: Education
   type: time_table
@@ -132,20 +136,6 @@
 - title: Research and Employment
   type: time_table
   contents:
-    - title: Postdoctoral Affiliate
-      institution: University of Cambridge
-      year: 2026 - present
-      description: >
-        Non-stipendiary postdoctoral affiliation providing continued research access and recognition within the Faculty following PhD completion.
-    - title: Research Collaborator, FORSA Project
-      institution: University of East Anglia
-      year: 2026 - present
-      description: >
-        Unpaid research collaborator on a British Academy/Leverhulme-funded project investigating cross-cultural variation in concepts of forgiveness and their implications for restorative justice in post-Apartheid South Africa.
-      items:
-        - Developing and refining annotation frameworks for qualitative linguistic data, enabling systematic analysis of culturally variable conceptualisations of forgiveness.
-        - Conducting qualitative and quantitative analyses of interview and survey data.
-        - Supporting collaboration with researchers at the University of Fort Hare, contributing to data coding, methodological development, and cross-cultural interpretation of findings.
     - title: Research Assistant (part-time)
       institution: University of Cambridge
       year: June - July 2026

@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Synthese":
+  url: https://link.springer.com/journal/11229
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Linguistics Vanguard":
+  url: https://www.degruyter.com/journal/key/lingvan/html
+  color: "#8c1515"
 
-"Vision":
-  color: "#009f36"
+"Proceedings of the Society for Computation in Linguistics":
+  url: https://scholarworks.umass.edu/scil/
+  color: "#00695c"
+
+"Cambridge Occasional Papers in Linguistics":
+  url: https://www.copil.mmll.cam.ac.uk/
+  color: "#4b2e83"

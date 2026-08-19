@@ -1,7 +1,8 @@
 ---
 layout: page
-title: news
+title: News
 permalink: /news/
+description: Announcements and updates.
 ---
 
 {% include news.liquid %}
