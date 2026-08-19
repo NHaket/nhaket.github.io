@@ -33,10 +33,10 @@ Taken together, the thesis makes three main contributions:
 
 ## Related Publications
 
-Haket, N. From words to propositions: rethinking meaning construction in conceptual engineering. *Synthese* 208, 14 (2026). https://doi.org/10.1007/s11229-026-05659-x
+Haket, N. From words to propositions: rethinking meaning construction in conceptual engineering. _Synthese_ 208, 14 (2026). https://doi.org/10.1007/s11229-026-05659-x
 
-Haket, N. & Daniels, R. BERT's conceptual cartography: mapping the landscapes of meaning. *Proceedings of the Society for Computation in Linguistics* 8, 182–198 (2025). https://doi.org/10.7275/scil.3145
+Haket, N. & Daniels, R. BERT's conceptual cartography: mapping the landscapes of meaning. _Proceedings of the Society for Computation in Linguistics_ 8, 182–198 (2025). https://doi.org/10.7275/scil.3145
 
-Haket, N. Collaborative conceptual engineering: philosophy and linguistics. In *Conceptual Engineering: Methodological and Metaphilosophical Issues* (ed. Stalmaszczyk, P.) 227–253 (Brill, 2024). https://doi.org/10.30965/9783969753026_012
+Haket, N. Collaborative conceptual engineering: philosophy and linguistics. In _Conceptual Engineering: Methodological and Metaphilosophical Issues_ (ed. Stalmaszczyk, P.) 227–253 (Brill, 2024). https://doi.org/10.30965/9783969753026_012
 
-Haket, N. Nullius in verba: conceptual engineering and the Royal Society Corpus. *Cambridge Occasional Papers in Linguistics* 15, 155–195 (2023). https://www.copil.mmll.cam.ac.uk/files/v15_Haket.pdf
+Haket, N. Nullius in verba: conceptual engineering and the Royal Society Corpus. _Cambridge Occasional Papers in Linguistics_ 15, 155–195 (2023). https://www.copil.mmll.cam.ac.uk/files/v15_Haket.pdf

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presentation at the 6th International Conference of the American Pragmatics Association (AMPRA) in Florida, titled  "The Forgotten Pragmatic Aspect of Conceptual Engineering"
+Presentation at the 6th International Conference of the American Pragmatics Association (AMPRA) in Florida, titled "The Forgotten Pragmatic Aspect of Conceptual Engineering"

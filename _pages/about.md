@@ -14,39 +14,36 @@ profile:
     <p>University of Cambridge</p>
     <p>nch35 [at] cam.ac.uk</p>
 
-
-news: true 
+news: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 ## I'm on the Job Market
 
-I completed my PhD in 2026 and am looking for academic positions beginning autumn 2027. I bring a distinctive combination of theoretical depth in philosophy of language and linguistics with hands-on empirical and computational skills. If you think there might be a fit, please get in touch at nch35 [at] cam.ac.uk.
+I finished my PhD in 2026 and I'm looking for academic positions starting autumn 2027. My work sits between philosophy of language and linguistics, and I do both the theory and the empirical side of it. If you think there might be a fit, do get in touch at nch35 [at] cam.ac.uk.
 
 ---
 
 ## About Me
 
-Hi! I'm Nina Haket, a linguist and philosopher of language working at the intersection of semantics, pragmatics, and philosophy. My research asks fundamental questions about how word meanings work, how they change, and how we can deliberately shape them, combining rigorous theoretical frameworks with empirical and computational methods to produce work that speaks across disciplinary boundaries.
+I'm a linguist and a philosopher of language. I work on word meaning — how it works, how it shifts over time, and what happens when people try to change it on purpose.
 
-I completed my PhD, "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering," at the University of Cambridge in 2026, supervised by Prof. Kasia Jaszczolt. The thesis develops an original account of conceptual engineering grounded in Default Discourse Semantics, integrating philosophy of language, formal semantics, and corpus-based evidence into a unified framework.
+I finished my PhD at Cambridge in 2026, supervised by Kasia Jaszczolt. It was about conceptual engineering, the practice of deliberately revising what a word means. My argument was that the field has been looking at the wrong unit: it treats words in isolation, when what people actually communicate is whole propositions, assembled from the words plus context plus a good deal of unspoken assumption. I used Kasia's Default Discourse Semantics to make that case properly, and then tested it with corpus data and experiments instead of leaving it as theory.
 
-I am currently a Postdoctoral Affiliate at the University of Cambridge, and an unpaid research collaborator on the FORSA project at the University of East Anglia, investigating cross-cultural variation in concepts of forgiveness and their implications for restorative justice in post-Apartheid South Africa. From January to June 2026, I held a Research Associate post on the project "Experimental argument analysis: Reasoning with stereotypes" with Profs Eugen Fischer and Paul Engelhardt at UEA, where I led the quantitative analysis for experimental studies examining how stereotypical inferences contribute to reasoning errors. This work involved designing Prolific-based experimental paradigms and running mixed-effects models in R, and contributed to manuscripts now under review at high-ranking journals; I continue to collaborate with Prof. Fischer and colleagues.
+Right now I'm a Postdoctoral Affiliate at Cambridge, and I work on the FORSA project at the University of East Anglia, on how ideas of forgiveness differ between Xhosa- and English-speaking communities in South Africa and what that means for restorative justice. Earlier in 2026 I spent six months at UEA with Eugen Fischer and Paul Engelhardt, running the statistics for experiments on how the stereotypes attached to a word can push people into bad reasoning. I'm still working with them on it.
 
-Before this, I completed a Research Master's in Linguistics at Leiden University and a Bachelor's in Linguistics at the University of Cambridge. Across these roles I have developed an unusually broad methodological profile, combining expertise in formal semantics and philosophy of language with hands-on skills in corpus linguistics, NLP, and statistical analysis.
-
-I'm particularly interested in the semantics-pragmatics interface and its role in language change, and in bringing this combination of theoretical depth and empirical range to bear on new research questions.
+Before Cambridge I did a research master's at Leiden. The upshot of all this is a slightly odd combination of skills: formal semantics and philosophy of language on one side, corpus methods, NLP and statistics on the other. It's a useful place to stand, since the questions I care about tend to need both.
 
 ---
 
 ## Research in Plain English
 
-Words are slippery. The word "marriage" means something different today than it did fifty years ago, and that change did not happen by accident. People argued, lobbied, wrote, and rewrote until the meaning shifted. My research asks: how does that actually work? What is it about language that makes meanings changeable, and what does it take to change them deliberately?
+Ask what "marriage" means and you'll get a different answer now than you would have got fifty years ago. That shift didn't just happen to the language — people fought over it, in courts and newspapers and at kitchen tables, until the word moved. I'm interested in how that process actually works.
 
-I work on a field called conceptual engineering, which studies how and why we revise the meanings of words, and what the philosophical and linguistic consequences of doing so are. My approach is distinctive in that I do not just theorise about this: I use computational tools to track how word meanings actually cluster and shift in large bodies of text, and I run experiments with real participants to test how different ways of framing a sentence shape the conclusions people draw from it.
+The field I work in is called conceptual engineering: the deliberate attempt to change what a word means, usually because someone thinks the current meaning is unfair, unclear, or doing real damage. My work argues that this is much harder than it's usually assumed to be. You can announce a new definition, but you can't dictate the assumptions people already carry around with the word, and you certainly can't control what it comes to mean in an actual sentence in an actual conversation.
 
-The practical upshot is that the words we choose carry more freight than we usually notice. Legal language, political rhetoric, scientific terminology, and everyday conversation all construct the concepts they appear merely to describe. Understanding the mechanics of that construction matters for anyone interested in how knowledge, persuasion, and power work through language.
+Rather than just asserting that, I try to show it. I use language models to map how a word is really used across thousands of recorded conversations, and I run studies where people read slightly different phrasings of the same argument, to see how much the wording changes the conclusion they reach. It usually changes it more than people expect.
 
 ---
 
@@ -61,16 +58,19 @@ The practical upshot is that the words we choose carry more freight than we usua
 ## Methods and Skills
 
 **Experimental and quantitative**
+
 - Large-scale study design and administration (Prolific, Qualtrics)
 - Statistical modelling in R: linear and cumulative mixed-effects models, ordinal regression, growth curve analysis, Wilcoxon tests, inter-rater reliability (Cohen's kappa)
 - Sensitivity and cluster analyses; hierarchical clustering
 
 **Computational and corpus**
+
 - BERT-based distributional semantic modelling, large language models, and embedding analysis
 - Corpus compilation, annotation, and analysis
 - Python for NLP tasks; LaTeX for document preparation
 
 **Qualitative and theoretical**
+
 - Discourse analysis and qualitative data annotation
 - Theoretical semantics and pragmatics
 - Multi-layer annotation schema development and inter-annotator reliability

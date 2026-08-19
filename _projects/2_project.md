@@ -17,8 +17,8 @@ On the analysis side, I conducted hierarchical cluster analysis, mixed-effects m
 
 ## Findings and Outputs
 
-The results contribute to a manuscript, "When Stereotypical Inferences Prevail in Polysemy Processing: Explaining Fallacies of Equivocation," currently under review at *Mind & Language*, alongside further outputs in preparation. I presented this work at the 5th European Experimental Philosophy Conference (Norwich, 2025) and the 6th Experimental Philosophy Conference (Sardinia, 2026). The collaboration with Prof. Fischer and colleagues continues beyond the funded post.
+The results contribute to a manuscript, "When Stereotypical Inferences Prevail in Polysemy Processing: Explaining Fallacies of Equivocation," currently under review at _Mind & Language_, alongside further outputs in preparation. I presented this work at the 5th European Experimental Philosophy Conference (Norwich, 2025) and the 6th Experimental Philosophy Conference (Sardinia, 2026). The collaboration with Prof. Fischer and colleagues continues beyond the funded post.
 
 ## Related Publications
 
-Fischer, E., Haket, N., Stanton, K., Lazaridou-Chatzigoga, D. & Engelhardt, P. When stereotypical inferences prevail in polysemy processing: explaining fallacies of equivocation. *Mind & Language* (under review; revisions submitted).
+Fischer, E., Haket, N., Stanton, K., Lazaridou-Chatzigoga, D. & Engelhardt, P. When stereotypical inferences prevail in polysemy processing: explaining fallacies of equivocation. _Mind & Language_ (under review; revisions submitted).

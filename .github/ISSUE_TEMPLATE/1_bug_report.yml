@@ -7,8 +7,6 @@ body:
       value: >
         Before you go any further. Is this really a **🐛 bug**?
 
-
-
   - type: checkboxes
     id: requirements
     attributes:
