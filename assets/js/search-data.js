@@ -73,11 +73,22 @@ ninja.data = [{
           section: "News",},{id: "news-i-submitted-my-corrected-phd-thesis-to-the-university-of-cambridge-on-1st-june-2026",
           title: 'I submitted my corrected PhD thesis to the University of Cambridge on 1st...',
           description: "",
+          section: "News",},{id: "news-my-corrected-phd-thesis-was-approved-by-the-university-of-cambridge-in-june-2026",
+          title: 'My corrected PhD thesis was approved by the University of Cambridge in June...',
+          description: "",
+          section: "News",},{id: "news-i-ve-been-invited-to-give-a-talk-at-the-valence-asymmetries-seminar-universitat-pompeu-fabra-spain-in-2027",
+          title: 'I’ve been invited to give a talk at the Valence Asymmetries seminar, Universitat...',
+          description: "",
           section: "News",},{id: "projects-navigating-meaning-spaces-a-contextualist-approach-to-conceptual-engineering",
           title: 'Navigating Meaning Spaces; A Contextualist Approach to Conceptual Engineering',
           description: "PhD Research Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-experimental-argument-analysis-reasoning-with-stereotypes",
+          title: 'Experimental Argument Analysis; Reasoning with Stereotypes',
+          description: "with Prof. Eugen Fischer and Dr Paul Engelhardt, University of East Anglia",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-linkedin',
         title: 'LinkedIn',
@@ -91,13 +102,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-9553-507X", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
