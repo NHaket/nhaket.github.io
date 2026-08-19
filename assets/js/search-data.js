@@ -79,8 +79,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-been-invited-to-give-a-talk-at-the-valence-asymmetries-seminar-universitat-pompeu-fabra-spain-in-2027",
           title: 'I’ve been invited to give a talk at the Valence Asymmetries seminar, Universitat...',
           description: "",
-          section: "News",},{id: "projects-navigating-meaning-spaces-a-contextualist-approach-to-conceptual-engineering",
-          title: 'Navigating Meaning Spaces; A Contextualist Approach to Conceptual Engineering',
+          section: "News",},{id: "projects-navigating-meaning-spaces-a-contextualist-perspective-on-conceptual-engineering",
+          title: 'Navigating Meaning Spaces; A Contextualist Perspective on Conceptual Engineering',
           description: "PhD Research Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
