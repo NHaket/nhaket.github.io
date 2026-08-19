@@ -67,6 +67,9 @@ jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
+    # A healthy build takes ~6 minutes. Fail fast instead of letting a stalled
+    # runner sit in the default 6-hour timeout.
+    timeout-minutes: 20
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
