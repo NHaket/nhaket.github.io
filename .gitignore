@@ -11,3 +11,11 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Unconfirmed draft project pages - kept local only.
+# This repo is PUBLIC, so committing these would make them readable by anyone
+# even with `published: false` (which only hides them from the built site).
+# Delete the relevant line below when a project is confirmed and ready to publish.
+_projects/3_project.md
+_projects/4_project.md
+_projects/5_project.md
