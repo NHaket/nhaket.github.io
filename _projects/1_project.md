@@ -33,10 +33,10 @@ Taken together, the thesis makes three main contributions:
 
 ## Related Publications
 
-Haket, N. (Forthcoming). From Words to Propositions: Rethinking Meaning Construction in Conceptual Engineering. *Synthese*.
+Haket, N. From words to propositions: rethinking meaning construction in conceptual engineering. *Synthese* 208, 14 (2026). https://doi.org/10.1007/s11229-026-05659-x
 
-Haket, N. & Daniels, R. (2025). BERT's Conceptual Cartography: Mapping the Landscapes of Meaning. *Proceedings of the Society for Computation in Linguistics*, 8th meeting. DOI: 10.7275/scil.3145
+Haket, N. & Daniels, R. (2025). BERT's Conceptual Cartography: Mapping the Landscapes of Meaning. *Proceedings of the Society for Computation in Linguistics*, 8th meeting. https://doi.org/10.7275/scil.3145
 
-Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and Linguistics. In *Conceptual Engineering: Methodological and Metaphilosophical Issues* (P. Stalmaszczyk, ed.). Brill. DOI: 10.30965/9783969753026_012
+Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and Linguistics. In *Conceptual Engineering: Methodological and Metaphilosophical Issues* (P. Stalmaszczyk, ed.). Brill. https://doi.org/10.30965/9783969753026_012
 
 Haket, N. (2023). Nullius In Verba: Conceptual Engineering and the Royal Society Corpus. *Cambridge Occasional Papers in Linguistics*, 15, 155–195.
