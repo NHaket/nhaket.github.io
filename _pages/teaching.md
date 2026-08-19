@@ -36,7 +36,7 @@ Supervised extended independent research projects in semantics, pragmatics, and 
 
 - "The Flirting Game: A pragmatic analysis of collaborative meaning negotiation in flirting interactions." — High first-class mark (2024–25).
 
-**Project Supervisor**, University of Cambridge
+**Project Supervisor**, University of Cambridge — 2024–present
 
 Supervised student research projects across multiple schemes:
 - Pembroke Cambridge Summer Programme: "Cross-cultural construction of death: A multimodal contrastive study of obituary discourse in Chinese and American media."

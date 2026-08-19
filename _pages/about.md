@@ -30,13 +30,13 @@ I completed my PhD in 2026 and am looking for academic positions beginning autum
 
 Hi! I'm Nina Haket, a linguist and philosopher of language working at the intersection of semantics, pragmatics, and philosophy. My research asks fundamental questions about how word meanings work, how they change, and how we can deliberately shape them, combining rigorous theoretical frameworks with empirical and computational methods to produce work that speaks across disciplinary boundaries.
 
-I recently completed my PhD, "Navigating Meaning Spaces: A Contextualist Approach to Conceptual Engineering," at the University of Cambridge, supervised by Prof. Kasia Jaszczolt. The thesis develops an original account of conceptual engineering grounded in Default Discourse Semantics, integrating philosophy of language, formal semantics, and corpus-based evidence into a unified framework.
+I completed my PhD, "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering," at the University of Cambridge in 2026, supervised by Prof. Kasia Jaszczolt. The thesis develops an original account of conceptual engineering grounded in Default Discourse Semantics, integrating philosophy of language, formal semantics, and corpus-based evidence into a unified framework.
 
 I am currently a Postdoctoral Affiliate at the University of Cambridge, and an unpaid research collaborator on the FORSA project at the University of East Anglia, investigating cross-cultural variation in concepts of forgiveness and their implications for restorative justice in post-Apartheid South Africa. From January to June 2026, I held a Research Associate post on the project "Experimental argument analysis: Reasoning with stereotypes" with Profs Eugen Fischer and Paul Engelhardt at UEA, where I led the quantitative analysis for experimental studies examining how stereotypical inferences contribute to reasoning errors. This work involved designing Prolific-based experimental paradigms and running mixed-effects models in R, and contributed to manuscripts now under review at high-ranking journals; I continue to collaborate with Prof. Fischer and colleagues.
 
 Before this, I completed a Research Master's in Linguistics at Leiden University and a Bachelor's in Linguistics at the University of Cambridge. Across these roles I have developed an unusually broad methodological profile, combining expertise in formal semantics and philosophy of language with hands-on skills in corpus linguistics, NLP, and statistical analysis.
 
-I'm particularly interested in the semantics-pragmatics interface and its role in language change, and I am actively seeking new research opportunities where I can bring this combination of theoretical depth and empirical range to bear.
+I'm particularly interested in the semantics-pragmatics interface and its role in language change, and in bringing this combination of theoretical depth and empirical range to bear on new research questions.
 
 ---
 

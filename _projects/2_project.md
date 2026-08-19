@@ -21,4 +21,4 @@ The results contribute to a manuscript, "When Stereotypical Inferences Prevail i
 
 ## Related Publications
 
-Fischer, E., Haket, N., Stanton, K., Lazaridou-Chatzigoga, D. & Engelhardt, P. When Stereotypical Inferences Prevail in Polysemy Processing: Explaining Fallacies of Equivocation. Under review, *Mind and Language*.
+Fischer, E., Haket, N., Stanton, K., Lazaridou-Chatzigoga, D. & Engelhardt, P. When stereotypical inferences prevail in polysemy processing: explaining fallacies of equivocation. *Mind & Language* (under review; revisions submitted).
