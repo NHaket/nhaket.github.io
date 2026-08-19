@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Associate, University of East Anglia
+subtitle: Postdoctoral Affiliate, University of Cambridge
 
 profile:
   align: right
-  image: new_pic.jpg
+  image: prof_pic.jpg
 
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Research Associate</p>
-    <p>University of East Anglia</p>
+    <p>Postdoctoral Affiliate</p>
+    <p>University of Cambridge</p>
     <p>nch35 [at] cam.ac.uk</p>
 
 
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 ## I'm on the Job Market
 
-I am available for postdoctoral, research, and related positions from July 2026. I bring a distinctive combination of theoretical depth in philosophy of language and linguistics with hands-on empirical and computational skills, and I am open to academic, industry, and publishing-adjacent roles. If you think there might be a fit, please get in touch at nch35 [at] cam.ac.uk.
+I completed my PhD in 2026 and am looking for academic positions beginning autumn 2027. I bring a distinctive combination of theoretical depth in philosophy of language and linguistics with hands-on empirical and computational skills. If you think there might be a fit, please get in touch at nch35 [at] cam.ac.uk.
 
 ---
 
@@ -32,7 +32,7 @@ Hi! I'm Nina Haket, a linguist and philosopher of language working at the inters
 
 I recently completed my PhD, "Navigating Meaning Spaces: A Contextualist Approach to Conceptual Engineering," at the University of Cambridge, supervised by Prof. Kasia Jaszczolt. The thesis develops an original account of conceptual engineering grounded in Default Discourse Semantics, integrating philosophy of language, formal semantics, and corpus-based evidence into a unified framework.
 
-I currently work as a Research Associate on the project "Experimental argument analysis: Reasoning with stereotypes" with Profs Eugen Fischer and Paul Engelhardt at the University of East Anglia, where I have led the quantitative analysis for experimental studies examining how stereotypical inferences contribute to reasoning errors. This work has involved designing Prolific-based experimental paradigms, running mixed-effects models in R, and contributing to manuscripts currently under review at high-ranking journals.
+I am currently a Postdoctoral Affiliate at the University of Cambridge, and an unpaid research collaborator on the FORSA project at the University of East Anglia, investigating cross-cultural variation in concepts of forgiveness and their implications for restorative justice in post-Apartheid South Africa. From January to June 2026, I held a Research Associate post on the project "Experimental argument analysis: Reasoning with stereotypes" with Profs Eugen Fischer and Paul Engelhardt at UEA, where I led the quantitative analysis for experimental studies examining how stereotypical inferences contribute to reasoning errors. This work involved designing Prolific-based experimental paradigms and running mixed-effects models in R, and contributed to manuscripts now under review at high-ranking journals; I continue to collaborate with Prof. Fischer and colleagues.
 
 Before this, I completed a Research Master's in Linguistics at Leiden University and a Bachelor's in Linguistics at the University of Cambridge. Across these roles I have developed an unusually broad methodological profile, combining expertise in formal semantics and philosophy of language with hands-on skills in corpus linguistics, NLP, and statistical analysis.
 
@@ -54,7 +54,7 @@ The practical upshot is that the words we choose carry more freight than we usua
 
 **Areas of specialisation:** Conceptual Engineering, Language Change, Semantics-Pragmatics Boundary, Word Meaning
 
-**Areas of competence:** Historical Linguistics, Sociolinguistics, Philosophy of Language
+**Areas of competence:** Historical Linguistics, Sociolinguistics, Philosophy of Language, Experimental Philosophy
 
 ---
 
@@ -66,7 +66,7 @@ The practical upshot is that the words we choose carry more freight than we usua
 - Sensitivity and cluster analyses; hierarchical clustering
 
 **Computational and corpus**
-- BERT-based distributional semantic modelling and embedding analysis
+- BERT-based distributional semantic modelling, large language models, and embedding analysis
 - Corpus compilation, annotation, and analysis
 - Python for NLP tasks; LaTeX for document preparation
 

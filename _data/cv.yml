@@ -9,11 +9,16 @@
 - title: Current Position
   type: time_table
   contents:
-    - title: Research Associate
-      institution: University of East Anglia, School of Psychology
-      year: 2026
+    - title: Postdoctoral Affiliate
+      institution: University of Cambridge
+      year: 2026 - present
       description: >
-        Fritz Thyssen Foundation-funded project on experimental argument analysis, working with Prof. Eugen Fischer and Dr Paul Engelhardt across an interdisciplinary team of linguists, philosophers, and psychologists. Designed and administered large-scale questionnaire studies via Prolific and Qualtrics; conducted hierarchical cluster analysis, mixed-effects modelling, and regression analyses in R; co-authored publications and conference presentations.
+        Non-stipendiary postdoctoral affiliation awarded to recent PhD graduates to support ongoing research within the Faculty of Modern and Medieval Languages and Linguistics.
+    - title: Research Collaborator, FORSA Project
+      institution: University of East Anglia
+      year: 2026 - present
+      description: >
+        Unpaid research collaborator on a British Academy/Leverhulme-funded project investigating cross-cultural variation in concepts of forgiveness and their implications for restorative justice in post-Apartheid South Africa. Developing annotation frameworks for qualitative linguistic data and analysing interview and survey data with researchers at the University of Fort Hare.
 
 - title: Education
   type: time_table
@@ -22,7 +27,7 @@
       institution: University of Cambridge
       year: 2022 - 2026
       description: >
-        Title: "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering". Supervised by Prof. Kasia Jaszczolt. One examiner had no corrections, the other minor corrections.
+        Title: "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering". Supervised by Prof. Kasia Jaszczolt. Submitted January 2026; defended March 2026, with one examiner requiring no corrections and the other minor corrections; approved June 2026.
     - title: Research Master of Arts, Linguistics
       institution: Universiteit Leiden
       year: 2020 - 2022
@@ -49,32 +54,40 @@
         - Historical Linguistics
         - Sociolinguistics
         - Philosophy of Language
+        - Experimental Philosophy
     - title: Technical Competencies
       items:
         - R
         - Python
         - LaTeX
+        - Large Language Models
         - Corpus Analysis Tools
+        - Qualtrics
+        - Prolific
 
 - title: Publications
   type: time_table
   contents:
     - title: From Words to Propositions; Rethinking Meaning Construction in Conceptual Engineering
-      year: Forthcoming
+      year: 2026
       description: >
-        Haket, N. (Forthcoming). From Words to Propositions: Rethinking Meaning Construction in Conceptual Engineering. Synthese [Q1; top-ranked philosophy journal].
+        Haket, N. (2026). From Words to Propositions: Rethinking Meaning Construction in Conceptual Engineering. Synthese, 208: 14 [Q1; top-ranked philosophy journal].
     - title: When stereotypical inferences prevail in polysemy processing; Explaining fallacies of equivocation
       year: Under Review
       description: >
-        Fischer, E., Stanton, K., Lazaridou-Chatzigoga, D., Haket, N. & Engelhardt, P. When stereotypical inferences prevail in polysemy processing: Explaining fallacies of equivocation. Mind and Language [Q1 in Linguistics and Language; Q1 in Philosophy]. Revisions in progress.
+        Fischer, E., Haket, N., Stanton, K., Lazaridou-Chatzigoga, D. & Engelhardt, P. When stereotypical inferences prevail in polysemy processing: Explaining fallacies of equivocation. Mind and Language [Q1 in Linguistics and Language; Q1 in Philosophy]. Revisions submitted.
     - title: Conceptual Engineering in the Age of Emerging Tech; A Bottom-Up Approach to Lexical Semantics
+      year: Provisionally Accepted
+      description: >
+        Haket, N. Conceptual Engineering in the Age of Emerging Tech: A Bottom-Up Approach to Lexical Semantics. In Conceptual Engineering for Emerging Technologies (eds. Isaac, Frank & Hopster). Routledge.
+    - title: Not Even Newton's Word
       year: Under Review
       description: >
-        Haket, N. Conceptual Engineering in the Age of Emerging Tech: A Bottom-Up Approach to Lexical Semantics. In Conceptual Engineering for Emerging Technologies (eds. Isaac, Frank & Hopster). Routledge. Revisions in progress.
-    - title: Language Under Construction; Conceptual Engineering and Linguistics
-      year: Under Review
+        Haket, N. Not Even Newton's Word. Transactions of the Philological Society [Q2-ranked international peer-reviewed linguistics journal].
+    - title: Contested Concepts and Conceptual Engineering
+      year: Under Contract
       description: >
-        Haket, N. Language Under Construction: Conceptual Engineering and Linguistics. Handbook chapter. Under review.
+        Haket, N. Contested Concepts and Conceptual Engineering. Invited chapter for The Cambridge Handbook of Conflict in Communication (eds. C. Elder & E. Kapogianni). First submission due January 2027; expected publication 2028.
     - title: BERT's Conceptual Cartography; Mapping the Landscapes of Meaning
       year: 2025
       description: >
@@ -104,13 +117,13 @@
         - Shortlisted for the Trinity College Junior Research Fellowship (Cambridge), a highly competitive early-career award attracting hundreds of applicants from leading global universities.
     - year: 2025
       items:
-        - International Pragmatics Association Conference Full Bursary. Competitive funding for presentation at the premier international pragmatics conference, Brisbane.
+        - International Pragmatics Association Conference Full Bursary (£2,500). Competitive funding for presentation at the premier international pragmatics conference, Brisbane.
     - year: 2023
       items:
-        - TAL Research Area Workshops (RAW) funding to organise a student-led interdisciplinary workshop.
+        - TAL Research Area Workshops (RAW) funding (£700) to organise a student-led interdisciplinary workshop.
     - year: 2022
       items:
-        - Cambridge Trust International Scholarship for full PhD funding, covering tuition and living expenses for exceptional international students.
+        - Cambridge Trust International Scholarship (~£165,000) for full PhD funding, covering tuition and living expenses for exceptional international students.
     - year: 2017
       items:
         - Sufian Passamano Prize for Linguistics. Awarded for outstanding academic achievement in linguistics.
@@ -119,23 +132,37 @@
 - title: Research and Employment
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Postdoctoral Affiliate
       institution: University of Cambridge
       year: 2026 - present
       description: >
+        Non-stipendiary postdoctoral affiliation providing continued research access and recognition within the Faculty following PhD completion.
+    - title: Research Collaborator, FORSA Project
+      institution: University of East Anglia
+      year: 2026 - present
+      description: >
+        Unpaid research collaborator on a British Academy/Leverhulme-funded project investigating cross-cultural variation in concepts of forgiveness and their implications for restorative justice in post-Apartheid South Africa.
+      items:
+        - Developing and refining annotation frameworks for qualitative linguistic data, enabling systematic analysis of culturally variable conceptualisations of forgiveness.
+        - Conducting qualitative and quantitative analyses of interview and survey data.
+        - Supporting collaboration with researchers at the University of Fort Hare, contributing to data coding, methodological development, and cross-cultural interpretation of findings.
+    - title: Research Assistant (part-time)
+      institution: University of Cambridge
+      year: June - July 2026
+      description: >
         Linguistic, Cognitive, and Ethical Dimensions of Classical Rabbinic Midrash.
       items:
-        - Annotating and analysing qualitative data from experiments investigating how participants interpret ambiguous or unconventional linguistic stimuli.
-        - Examining how speakers extend or reshape lexical meaning in ways that mirror broader processes of semantic change and meaning negotiation.
+        - Annotated qualitative data from experiments investigating how participants interpret ambiguous or unconventional linguistic stimuli.
+        - Examined how speakers extend or reshape lexical meaning in ways that mirror broader processes of semantic change and meaning negotiation.
     - title: Research Associate
       institution: University of East Anglia
-      year: 2026
+      year: January - June 2026
       description: >
-        Fritz Thyssen Foundation-funded project on experimental argument analysis, working with Prof. Eugen Fischer and Dr Paul Engelhardt.
+        A defined six-month post on a Fritz Thyssen Foundation-funded project on experimental argument analysis, working with Prof. Eugen Fischer and Dr Paul Engelhardt, that produced two peer-reviewed manuscripts and formed the basis of an ongoing collaboration.
       items:
         - Designed and administered questionnaire-based studies recruiting participants via Prolific and Qualtrics, generating and quality-controlling datasets of 1,000+ records per study.
         - Facilitated focus groups with annotation teams to establish coding criteria, resolve inter-rater disagreements, and ensure qualitative consistency across annotation rounds.
-        - Conducted hierarchical cluster analysis, mixed-effects modelling, and regression analyses in R; results contribute to a manuscript currently under revision at Mind and Language (Q1).
+        - Conducted hierarchical cluster analysis, mixed-effects modelling, and regression analyses in R; results contribute to a manuscript under review at Mind and Language (Q1) and further forthcoming outputs.
         - Co-authored conference abstracts and journal publications; reviewed literature across linguistics, psychology, and philosophy.
     - title: Doctoral Research Project
       institution: University of Cambridge
@@ -146,10 +173,10 @@
         - Corpus strand; compiled and systematically analysed a corpus of public texts from the British National Corpus using BERT-based distributional semantic models, mapping lexical clustering across discourse contexts.
         - Experimental strand; designed and implemented multiple questionnaire-based participant studies, generating datasets analysed through full statistical modelling in R (CLMMs, ordinal regression, Wilcoxon tests).
         - Produced 4 peer-reviewed publications across Q1 journals and competitive international venues; 4 further outputs in press or under review.
-        - Delivered 12+ international conference presentations, including 3 invited talks.
+        - Delivered 12+ international conference presentations, including 6 invited talks.
     - title: Research Assistant
       institution: University of East Anglia
-      year: 2025
+      year: February - April 2025
       description: >
         Working Research Assistant on an experimental philosophy project led by Dr Dimitra Lazaridou-Chatzigoga and Prof Eugen Fischer.
       items:
@@ -164,14 +191,14 @@
         - Produced substantial research outputs including three conference presentations, a chapter in an edited volume, and a peer-reviewed methodology paper in the Society for Computation in Linguistics proceedings.
     - title: Research Assistant
       institution: MacBERTh Project, Universiteit Leiden
-      year: 2021 - 2022
+      year: February 2021 - August 2022
       items:
         - Contributed to the design and compilation of a corpus of historical English texts for a funded interdisciplinary project building transformer-based language models.
         - Developed annotation protocols applied systematically across 1,500+ records; collaborated with computational linguists, NLP researchers, and historians of language.
         - Work directly contributed to a peer-reviewed publication in Linguistics Vanguard (Fonteyn et al., 2024) and an international conference presentation.
     - title: Researcher
       institution: When Philosophers Meet Linguists; The Conceptual Engineering Project
-      year: 2020 - 2021
+      year: February 2020 - August 2021
       items:
         - Provided linguistic input to a previously philosophy-only domain, resulting in multiple publications and conference presentations.
         - Conducted independent research and prepared presentations.
@@ -185,6 +212,13 @@
 - title: Conference Presentations
   type: time_table
   contents:
+    - title: >
+        *Invited talk at the Valence Asymmetries seminar, Universitat Pompeu Fabra, Spain.
+      year: 2027
+      invited: true
+    - title: >
+        Experimental argument analysis: Empirically examining the argument from hallucination. 6th Experimental Philosophy Conference, Sardinia. Co-authors: Eugen Fischer, Paul Engelhardt.
+      year: 2026
     - title: >
         *Linguistics, Conceptual Engineering, and the Spectrum Between Them. University of Cambridge Semantics, Pragmatics, and Philosophy Research Group Meeting.
       year: 2026
@@ -235,7 +269,7 @@
   contents:
     - title: Lecturer, Semantics and Pragmatics (TAL Tripos and MPhil, MMLL)
       institution: University of Cambridge
-      year: 2025
+      year: October - December 2025
       description: >
         Delivered a lecture series for undergraduate and MPhil students. Topics included truth-conditional semantics, Gricean pragmatics, relevance theory, and the semantics-pragmatics interface.
     - title: Undergraduate Supervisor
@@ -256,6 +290,7 @@
         - '"The Flirting Game: A pragmatic analysis of collaborative meaning negotiation in flirting interactions." The student achieved a high first-class mark (2024–25).'
     - title: Project Supervisor
       institution: University of Cambridge
+      year: 2024 - present
       description: >
         Supervised student research projects across multiple schemes.
       items:
@@ -267,17 +302,17 @@
   contents:
     - title: Co-Organiser, 11th Biennial Experimental Pragmatics Conference (XPRAG 2025)
       institution: University of Cambridge
-      year: 2025
+      year: April - September 2025
       description: >
         Co-organised one of the field's flagship international conferences: a three-day event with 250 attendees across in-person and online components. Responsibilities included speaker invitation and coordination, programme scheduling, promotional materials, and participant communications.
     - title: Organiser, Abstract Concepts, Perception, and Language Workshop
       institution: University of Cambridge
-      year: 2024
+      year: October 2023 - April 2024
       description: >
         Independently conceived, secured competitive TAL Research Area Workshops funding for, and delivered a one-day interdisciplinary workshop. Managed all aspects including call for abstracts, speaker selection, catering, promotional materials, and day-of coordination.
     - title: Organiser, LaTeX Workshop
       institution: Theoretical and Applied Linguistics Department, University of Cambridge
-      year: 2023
+      year: November 2023
       description: >
         Designed and delivered a practical skills workshop for linguistics postgraduates on document preparation, bibliography management, and formatting for academic submission.
 
@@ -290,7 +325,7 @@
         An open-access journal publishing high-quality peer-reviewed language research addressing issues of languages, cultures, and societies in accessible, non-technical language, with a mission to promote engagement with policymakers, journalists, and stakeholders in education, health, and business. Responsibilities include maintaining and updating the journal website, distributing calls for papers, and managing author correspondence throughout the submission process.
     - title: Organiser, Semantics, Pragmatics and Philosophy Workgroup
       institution: University of Cambridge
-      year: 2022 - present
+      year: 2022 - 2026
       description: >
         Founded and convene a bi-weekly Cambridge University meeting in which authors of recently published papers are invited to discuss their work. Responsibilities include selecting papers for discussion, contacting and briefing authors, moderating meetings, and communicating with a university-wide membership. Maintained consistent programming across three years.
     - title: Editor, Cambridge Occasional Papers in Linguistics
@@ -321,3 +356,4 @@
     - title: Referee
       items:
         - 'Theoria: An International Journal for Theory, History and Foundations of Science'
+        - 'Reviewer, Workshop on Abstract Concepts, Perception, and Language (self-organised, 2024): reviewed submitted abstracts for programme selection.'
